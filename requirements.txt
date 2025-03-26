@@ -1,0 +1,5 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+trimesh==3.22.0
+numpy==1.23.5
+pillow==9.1.0
